@@ -66,4 +66,12 @@ body {
 
 h2 {
   font-size: 1em;
+
+}
+
+.pfp {
+   margin:auto;
+   width:100%;
+   height:100px;
+   
 }
