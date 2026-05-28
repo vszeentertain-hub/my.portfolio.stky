@@ -74,5 +74,20 @@ h2 {
    width:100px;
    height:100px;
    
+} 
+
+#order{
+  max-width:500px;
+  margin:auto;
+}
+
+#order input{
+  width:100%;
+  padding:10px;
+}
+
+#order button{
+  padding:10px 20px;
+  cursor:pointer;
 }
 
